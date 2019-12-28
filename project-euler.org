@@ -1,4 +1,6 @@
-#+TITLE: Project Euler Exercises
+#+TITLE: My Project Euler Solutions
+#+AUTHOR: Doug Beney
+#+DATE:
 
 * Problem #1
 
