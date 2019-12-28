@@ -1,0 +1,1 @@
+# Check out [the solution PDF](https://github.com/DougBeney/Project-Euler-Answers/blob/master/project-euler.pdf).
